@@ -2,5 +2,5 @@ gunicorn
 Flask
 pyyaml
 paramiko
-easy-openshift
+kubernetes
 openshift
