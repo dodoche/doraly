@@ -3,3 +3,4 @@ Flask
 pyyaml
 paramiko
 easy-openshift
+openshift
