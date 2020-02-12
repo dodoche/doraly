@@ -1,5 +1,5 @@
 from flask import Flask
-import openshift as oc
+
 application = Flask(__name__)
 
 @application.route("/")
