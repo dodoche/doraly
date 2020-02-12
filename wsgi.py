@@ -1,6 +1,7 @@
 #!/usr/bin/python
 from flask import Flask
-import openshift as oc
+from easy-openshift import openshift as oc
+from easy-openshift import openshift_utils
 
 print('OpenShift client version: {}'.format(oc.get_client_version()))
 print('OpenShift server version: {}'.format(oc.get_server_version()))
