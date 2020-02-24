@@ -1,6 +1,2 @@
-#gunicorn
-#Flask
-pyyaml
-paramiko
-kubernetes
-#openshift
+gunicorn
+Flask
